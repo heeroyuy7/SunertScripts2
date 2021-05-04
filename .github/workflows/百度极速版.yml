@@ -1,5 +1,5 @@
 
-name: 百度极速版1
+name: 百度极速版
 
 on:
   workflow_dispatch:
